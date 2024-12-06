@@ -7,6 +7,6 @@ function daysOfYear(year) {
 	    return parseInt(366);
 	}
 }
-const year = prompt ("year");
+const year = ("year");
 year=number.parseInt(year);
-alert(daysOfYear(year));
+alert(daysOfYear(year) + return );
