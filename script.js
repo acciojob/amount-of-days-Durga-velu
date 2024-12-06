@@ -6,7 +6,10 @@ function daysOfYear(year) {
 	else{
 		return 365;
 	}
-	
 }
-const year=prompt("ÿear");
-daysOfYear(year);
+const year=daysOfYear(year);
+
+daysOfYear(2022);
+daysOfYear(2024);
+daysOfYear(1900);
+daysOfYear(2000);
