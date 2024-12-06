@@ -8,5 +8,5 @@ function daysOfYear(year) {
 	}
 }
 const year = prompt('year');
-
+year=number.parseInt(year);
 alert(daysOfYear(year));
