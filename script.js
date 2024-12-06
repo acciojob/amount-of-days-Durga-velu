@@ -10,6 +10,3 @@ function daysOfYear(year) {
 const year=2023;
 
 daysOfYear(year);
-daysOfYear(2024);
-daysOfYear(1900);
-daysOfYear(2000);
