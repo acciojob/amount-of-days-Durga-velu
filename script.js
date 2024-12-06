@@ -8,4 +8,5 @@ function daysOfYear(year) {
 	}
 	
 }
-alert pr
+const year=2023;
+daysOfYear(year);
