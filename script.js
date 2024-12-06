@@ -7,6 +7,6 @@ function daysOfYear(year) {
 		return 365;
 	}
 }
-const year=2023;
+const year=prompt(2023);
 
-daysOfYear(year);
+alert(daysOfYear(year));
