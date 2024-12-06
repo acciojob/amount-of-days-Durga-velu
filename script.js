@@ -7,6 +7,6 @@ function daysOfYear(year) {
 		return 365;
 	}
 }
-const year = prompt("year");
+const year = prompt('year');
 
 alert(daysOfYear(year));
