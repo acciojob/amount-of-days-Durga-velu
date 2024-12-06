@@ -7,9 +7,9 @@ function daysOfYear(year) {
 		return 365;
 	}
 }
-const year=daysOfYear(year);
+const year=2023;
 
-daysOfYear(2022);
+daysOfYear(year);
 daysOfYear(2024);
 daysOfYear(1900);
 daysOfYear(2000);
