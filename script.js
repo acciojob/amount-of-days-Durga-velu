@@ -8,5 +8,5 @@ function daysOfYear(year) {
 	}
 	
 }
-const year=2023;
+const year=promt("ÿear");
 daysOfYear(year);
